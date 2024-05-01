@@ -1,3 +1,6 @@
+![17671-kyphosis](https://github.com/1varma/Kyphosis-Child-Disease-Project---Decision-Tree/assets/39651154/dc3a1040-9b0b-427d-80a4-ecb4012abddb)
+
+
 # Data on Children who have had Corrective Spinal Surgery
 
 ## Description
